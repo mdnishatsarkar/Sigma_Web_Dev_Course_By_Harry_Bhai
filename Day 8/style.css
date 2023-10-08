@@ -1,0 +1,15 @@
+div{
+    background-color: antiquewhite;
+    margin-top: 5px;
+    padding: 10px;
+}
+
+h2{
+    background-color: rgb(64, 223, 252);
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+label{
+    font-weight: bold;
+}
